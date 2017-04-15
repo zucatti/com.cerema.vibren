@@ -58,7 +58,9 @@
     "api": [
         "MyService"
     ],
-    "db": [],
+    "db": [
+        "vibren"
+    ],
     "packages": [],
     "icon": {
         "background": "#FFFFFF",
